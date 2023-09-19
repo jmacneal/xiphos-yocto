@@ -6,6 +6,8 @@ IMAGE_LINGUAS = " "
 
 LICENSE = "MIT"
 
+DEPENDS += "xilinx-bootgen"
+
 inherit core-image
 
 IMAGE_ROOTFS_SIZE ?= "8192"

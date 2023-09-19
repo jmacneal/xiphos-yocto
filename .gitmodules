@@ -1,0 +1,3 @@
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = ./meta-raspberrypi/
